@@ -1,1 +1,1 @@
-# HDNN
+# Homomorphic Decryption Neural Network
